@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node Hello World
 
 Simple node.js app that servers "A Monk in Cloud"
@@ -61,3 +62,6 @@ pm2 start index.js --name node-app
 
 
 PM2 (Process Manager 2) is a powerful tool for managing Node.js applications in production environments. It ensures your app runs continuously, restarts on failure, and provides easy monitoring.
+=======
+# Sample_Nodejs_on_Ec2_Practice
+>>>>>>> 44e6dc5bef95a5db00cf325aea83e13dabed15e7
